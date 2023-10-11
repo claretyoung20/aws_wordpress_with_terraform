@@ -34,3 +34,5 @@ override.tf.json
 terraform.rc
 
 important.txt
+.DS_Store
+main_backup.txt
